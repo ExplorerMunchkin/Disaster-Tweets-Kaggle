@@ -1,9 +1,10 @@
+# Summary
 
 The project was developed for this [Kaggle Competition](https://www.kaggle.com/c/nlp-getting-started)
 
 Scoring 0.80416 on the Public Leaderboard. It's written in Python.
 
-
+# How to Run
 
 **DownloadSlangs.R:** Contains the script written in R language to download the internet slang words from noslang.com. 
 
