@@ -1,5 +1,5 @@
 
-This project was developed for this [Kaggle Competition](https://www.kaggle.com/c/nlp-getting-started)
+The project was developed for this [Kaggle Competition](https://www.kaggle.com/c/nlp-getting-started)
 
 Scoring 0.80416 on the Public Leaderboard. It's written in Python.
 
